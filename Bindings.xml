@@ -1,0 +1,7 @@
+<Bindings>
+    <Binding name="FIRSTNAMES_TOGGLE" header="FIRSTNAMES" category="ADDONS">
+        if FirstNames and FirstNames.ToggleLastNames then
+            FirstNames:ToggleLastNames()
+        end
+    </Binding>
+</Bindings>

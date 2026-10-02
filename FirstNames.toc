@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: First Names
+## Notes: Hides character last names in chat, nameplates, and unit frames for WoW Forever.
+## Author: Antigravity
+## Version: 1.0.0
+## SavedVariables: FirstNamesDB
+
+FirstNames.lua
+Options.lua
